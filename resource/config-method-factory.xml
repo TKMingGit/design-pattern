@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+	<className>com.mingzhao.designpattern.pattern23.p6.factorymethod.after2.FileLoggerFactory</className>
+</config>
